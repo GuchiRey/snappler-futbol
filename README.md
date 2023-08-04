@@ -14,7 +14,7 @@ npm install
 npm run start
 ```
 
-# 3- Levantar servidor de proxy
+# 3- Run proxy server
 
 ```
 git clone https://github.com/GuchiRey/server-proxy-snappler.git
