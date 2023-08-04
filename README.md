@@ -1,6 +1,6 @@
 # Snappler Futbol Challenge
 
-Version de Node: 18
+Node version: 18
 
 # 1- Install dependencies
 
@@ -21,9 +21,6 @@ git clone https://github.com/GuchiRey/server-proxy-snappler.git
 ```
 ```
 cd server-proxy
-```
-```
-git checkout master
 ```
 ```
 npm run install
