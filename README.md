@@ -17,7 +17,7 @@ npm run start
 # 3- Levantar servidor de proxy
 
 ```
-git clone https://github.com/GuchiRey/server-proxy-snappler/tree/master
+git clone https://github.com/GuchiRey/server-proxy-snappler.git
 ```
 ```
 cd server-proxy
